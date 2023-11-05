@@ -8,8 +8,8 @@
 
  - :books: What i'm excited to learn, and planning to do so:
     - R for DataViz, ML and the Torch framework
-    - Lua, Julia and Javascript
-    - Cloud and Machine Learning deployment
+    - Lua, Julia and Scala
+    - Cloud, Big Data analysis and Machine Learning deployment
     - Discrete Mathematics and Data Scructures
 
 ### My main tools are:
