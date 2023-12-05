@@ -1,12 +1,12 @@
 # How come you got here? :shipit:
  - :sunglasses: I'm Lucas, a Data Science student, textbook nerd and an amateur musician!
- - :bookmark_tabs: I'm currently studying:
+ - I'm currently studying:
     - Machine Learning algorithms, focused on the math behind the code
     - Deep Learning frameworks, like TensorFlow and PyTorch
     - OOP and software engineering
     - Statistical methods for analysis, learning and inference
 
- - :books: What i'm excited to learn, and planning to do so:
+ - What i'm excited to learn, and planning to do so:
     - R for DataViz, ML and the Torch framework
     - Lua, Julia and Scala
     - Cloud, Big Data analysis and Machine Learning deployment
